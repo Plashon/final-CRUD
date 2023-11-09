@@ -6,7 +6,7 @@
       "model": "AP03x",
       "price": "23,000 bath",
       "dimention": "35 inches",
-      "image": "https://unsplash.com/s/photos/monitor"
+      "image": "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "model": "S27H850QF",
       "price": "15,500 bath",
       "dimention": "27 inches",
-      "image": "https://example.com/samsung_monitor_image"
+      "image":  "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "model": "34GP950G-B",
       "price": "34,000 bath",
       "dimention": "34 inches",
-      "image": "https://example.com/lg_monitor_image"
+      "image":  "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "model": "U2719D",
       "price": "14,900 bath",
       "dimention": "27 inches",
-      "image": "https://example.com/dell_monitor_image"
+      "image":  "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "model": "VG279Q",
       "price": "9,500 bath",
       "dimention": "39 inches",
-      "image": "https://example.com/asus_monitor_image"
+      "image": "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "model": "Acer Model",
       "price": "Price",
       "dimention": "54 inches",
-      "image": "https://example.com/acer_monitor_image"
+      "image": "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "model": "Model7",
       "price": "Price7",
       "dimention": "60 inches",
-      "image": "https://example.com/image7"
+      "image": "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "model": "Model8",
       "price": "Price8",
       "dimention": "42 inches",
-      "image": "https://example.com/image8"
+      "image":  "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "model": "Model9",
       "price": "Price9",
       "dimention": "31 inches",
-      "image": "https://example.com/image9"
+      "image": "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "id": 10,
@@ -78,14 +78,14 @@
       "model": "Model10",
       "price": "Price10",
       "dimention": "26 inches",
-      "image": "https://example.com/image10"
+      "image": "https://source.unsplash.com/random/200x200/?computer"
     },
     {
       "brand": "efewf",
       "model": "weffwef",
       "price": "32213",
       "dimention": "sdfdf",
-      "image": "https://source.unsplash.com/random/200x200/?portrait",
+      "image":  "https://source.unsplash.com/random/200x200/?computer",
       "id": 11
     },
     {
@@ -93,7 +93,7 @@
       "model": "ffffffffffff",
       "price": "22222222",
       "dimention": "ffffffffff",
-      "image": "https://source.unsplash.com/random/200x200/?portrait",
+      "image":  "https://source.unsplash.com/random/200x200/?computer",
       "id": 12
     }
   ]

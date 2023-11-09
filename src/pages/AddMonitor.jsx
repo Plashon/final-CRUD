@@ -7,7 +7,7 @@ const AddMonitor = () => {
     model: "",
     price: "",
     dimention: "",
-    image: "https://source.unsplash.com/random/200x200/?portrait"  
+    image:  "https://source.unsplash.com/random/200x200/?computer" 
   });
   const navigate = useNavigate();
   const handleChange = (e) => {
